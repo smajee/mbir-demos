@@ -1,2 +1,4 @@
 *.o
 *.2Dimgdata
+*.2Dsysmatrix
+*.2Dprojection
