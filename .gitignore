@@ -2,3 +2,4 @@
 *.2Dimgdata
 *.2Dsysmatrix
 *.2Dprojection
+run/sysmatrix/*

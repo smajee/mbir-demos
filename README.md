@@ -28,10 +28,10 @@ so these may need to be modified to suit your directory organization.
 Currently if *sv-mbirct* and *mbir-demos* are located in the same base directory,
 the run script will find the proper location of the executable.
 
-To run the script, type one of the following:
+To run the script from a terminal, *cd* into the *run* folder and type one of the following:
 ```
-./runDemo.sh shepp
-./runDemo.sh xradia
+./runDemo.sh ../shepp
+./runDemo.sh ../xradia
 ```
 
 
