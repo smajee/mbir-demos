@@ -18,9 +18,9 @@ execdir="../../sv-mbirct/bin"
 
 dataDir=".."
 
-#dataName="$1"
 dataName="shepp"
 #dataName="xradia"
+[[ "$#" -gt 0 ]] && dataName="$1"
 
 parName="$dataDir/$dataName/par/$dataName"
 sinoName="$dataDir/$dataName/sino/$dataName"
