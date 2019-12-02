@@ -13,8 +13,8 @@ command line usage and data format descriptions.
 ### Sample Data
 
 This package contains two sample data sets,
-1. *shepp* which is a single slice of a generated Shepp-Logan phantom
-2. *xradia* which is a 4-slice sequence out of a volume scan taken 
+1. *shepp* is a single slice of a generated Shepp-Logan phantom
+2. *xradia* is a 4-slice sequence out of a volume scan taken 
 from a Zeiss Xradia microCT scanner.
 
 ### Scripts
