@@ -5,7 +5,7 @@
 This package contains demo shell scripts and sample data to 
 accompany the *sv-mbirct* project found here:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-https://github.com/sjkisner/sv-mbirct
+https://github.com/HPImaging/sv-mbirct
 
 Please refer to that site for the source code, compiling instructions, 
 command line usage and data format descriptions.
@@ -45,7 +45,7 @@ the output images are written in the *recon* folder in the associated data folde
 
 There's a basic Matlab script included that will display the output reconstructions. 
 If Matlab is not available, the 
-[OpenMBIR](https://github.com/cabouman/OpenMBIR)
+[OpenMBIR-ParBeam](https://github.com/cabouman/OpenMBIR-ParBeam)
 project includes a Python utility for displaying these images as well.
 
 
