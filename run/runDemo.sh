@@ -14,7 +14,7 @@ export OMP_DYNAMIC=true
 cd "$(dirname $0)"
 
 ### Set executable and data locations
-execdir="../../sv-mbirct/bin"
+execdir="../sv-mbirct/bin"
 
 dataDir=".."
 dataName="shepp"
