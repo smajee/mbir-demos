@@ -3,3 +3,12 @@
 *.2Dsysmatrix
 *.2Dprojection
 run/sysmatrix/*
+
+# for sublime-text sftp
+sftp-config.json
+# macos metadata file
+*.DS_Store
+# python bytecode
+*.pyc
+# MATLAB autosave
+*.m~ 
